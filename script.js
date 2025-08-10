@@ -1,6 +1,6 @@
 (async function checkForUpdates() {
     const currentVersion = "1.0";
-    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Valentine-/main/version.json"; 
+    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Girlfriend-/main/version.json"; 
 
     try {
         const response = await fetch(versionUrl);
@@ -54,7 +54,7 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+     "Are you sure?",
     "Really sure??",
     "Are you positive?",
     "Pookie please...",
@@ -63,7 +63,14 @@ const messages = [
     "I will be very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, say yes please! ❤️",
+    "Don’t break my heart 💔",
+    "You’re literally my dream girl 😍",
+    "Come on, we’d be so cute together 🥹",
+    "What if I make you brownies? 🍫",
+    "I’ll watch all your favorite shows 📺",
+    "We could be the ultimate power couple 💕",
+    "Say yes and I’ll never let you go 😘"
 ];
 
 let messageIndex = 0;
