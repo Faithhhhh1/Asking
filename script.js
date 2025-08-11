@@ -54,23 +54,14 @@
 })();
 */
 const messages = [
-     "Are you sure?",
+     "Are you sis?",
     "Really sure??",
     "Are you positive?",
-    "Pookie please...",
+    "Really gonna break your brother’s heart?...",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️",
-    "Don’t break my heart 💔",
-    "You’re literally my dream girl 😍",
-    "Come on, we’d be so cute together 🥹",
-    "What if I make you brownies? 🍫",
-    "I’ll watch all your favorite shows 📺",
-    "We could be the ultimate power couple 💕",
-    "Say yes and I’ll never let you go 😘"
+    "I will be throw a spider on you"
 ];
 
 let messageIndex = 0;
